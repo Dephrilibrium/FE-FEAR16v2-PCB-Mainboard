@@ -7,7 +7,7 @@ Gerber/
 *.csv
 *.xml
 *.log
-*.prl
+*.kicad_prl
 *.txt
 *.tmp
 ################################
