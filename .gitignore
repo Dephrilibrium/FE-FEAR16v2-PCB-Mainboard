@@ -10,6 +10,7 @@ Gerber/
 *.kicad_prl
 *.txt
 *.tmp
+*.lck
 ################################
 
 ### Ignored files (specific) ###

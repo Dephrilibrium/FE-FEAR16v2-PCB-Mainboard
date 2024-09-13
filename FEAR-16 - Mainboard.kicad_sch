@@ -6049,7 +6049,7 @@
 		)
 		(uuid "d30a9d1a-ac82-4371-b986-e81f710bb14a")
 	)
-	(text "Schmitt-Trigger-Inverter:\n- SN74LVC1G14\n- NC7S14M5X"
+	(text "Schmitt-Trigger-Inverter:\n- SN74LVC1G14\n- NC7S14M5X (alternative)"
 		(exclude_from_sim no)
 		(at 93.89 186.97 0)
 		(effects

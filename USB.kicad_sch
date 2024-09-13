@@ -2489,7 +2489,7 @@
 				)
 			)
 		)
-		(property "Value" "Z=50Ohm (33Ohm soll)"
+		(property "Value" "Z=50Ω (33Ω soll) (opt.)"
 			(at 84.582 25.419 90)
 			(effects
 				(font
